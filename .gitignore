@@ -1,0 +1,11 @@
+# macOS Files
+.DS_Store
+.idea
+node_modules
+scss
+
+style.scss
+style.css
+style.css.map
+package.json
+package-lock.json
